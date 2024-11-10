@@ -16,6 +16,7 @@
 
 - initial
   - npx create-next-app@latest
+  - https://ja.react.dev/learn/start-a-new-react-project
 - run(either is OK)
   - npm run dev
   - yarn dev
